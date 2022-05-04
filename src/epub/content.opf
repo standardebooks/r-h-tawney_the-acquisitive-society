@@ -37,36 +37,37 @@
 		<meta property="term" refines="#subject-2">sh85040850</meta>
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">sh85065960</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="se:subject">Nonfiction</meta>
+		<meta property="se:subject">Philosophy</meta>
+		<dc:description id="description">A discussion of the distinction between an Acquisitive Society, one guided by profits, and a Functional Society, one guided by service.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;&lt;blockquote&gt;
+					&lt;p&gt;“The faith upon which our economic civilization reposes, the faith that riches are not a means to an end but an end, implies that all economic activity is equally estimable whether it is subordinated to a social purpose or not.”&lt;/p&gt;
+				&lt;/blockquote&gt;&lt;/p&gt;
+			&lt;p&gt;So states &lt;a href="https://standardebooks.org/ebooks/r-h-tawney"&gt;Richard Tawney&lt;/a&gt; in this treatise on the difference between an Acquisitive Society, one guided purely by profits, and a Functional Society, one guided by professional motives. In the former, which is largely the world we live in, businesses are concerned only to make profits for their owners, who have no connection to the industry they own, high-quality service and efficient use of labor is at best only a pleasant byproduct. Tawney contrasts this view of society with the latter in which businesses are run by professionals instead of owners. In this scenario professional considerations not related to financial profit would lead to better service and higher efficiency, as well as happier workers.&lt;/p&gt;
+			&lt;p&gt;As an executive of the socialist Fabian Society, Tawney was considered one of the most influential historians of the early twentieth century, especially in politics where he was a major contributor to the British Labour Party. His influence extended beyond Britain as well, and he has been credited with influencing the policies of Swedish Social Democrats.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/33741</dc:source>
-		<dc:source>IA_URL</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<dc:source>https://catalog.hathitrust.org/Record/001309316</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
-		<meta property="se:url.encyclopedia.wikipedia">EBOOK_WIKI_URL</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/r-h-tawney_the-acquisitive-society</meta>
 		<dc:creator id="author">R. H. Tawney</dc:creator>
 		<meta property="file-as" refines="#author">Tawney, R. H.</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
+		<meta property="se:name.person.full-name" refines="#author">Tawney, Richard Henry</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/R._H._Tawney</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n50008661</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<meta property="se:role" refines="#author" scheme="marc:relators">ann</meta>
+		<dc:contributor id="artist">Victor Dubreuil</dc:contributor>
+		<meta property="file-as" refines="#artist">Dubreuil, Victor</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Al Haines</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
+		<meta property="file-as" refines="#transcriber-1">Haines, Al</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="producer-1">Lukas Bystricky</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Bystricky, Lukas</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">cov</meta>
