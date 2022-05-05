@@ -7,6 +7,28 @@ table{
 	margin: 1em;
 }
 
+table td + td{
+	text-align: right;
+}
+
+table td,
+table th{
+	padding: .5em;
+}
+
+table th{
+	vertical-align: bottom;
+}
+
+table thead tr:first-child th{
+	border-bottom: 1px solid;
+	padding-bottom: 0;
+}
+
+table thead tr + tr th{
+	text-align: center;
+}
+
 [epub|type~="z3998:poem"] p{
 	text-align: initial;
 	text-indent: 0;
