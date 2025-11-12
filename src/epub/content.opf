@@ -58,8 +58,8 @@
 		<meta property="se:name.person.full-name" refines="#author">Tawney, Richard Henry</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/R._H._Tawney</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n50008661</meta>
-		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">Victor Dubreuil</dc:contributor>
 		<meta property="file-as" refines="#artist">Dubreuil, Victor</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
