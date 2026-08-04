@@ -42,7 +42,7 @@
 		<meta property="schema:genre">Philosophy</meta>
 		<meta id="collection-1" property="belongs-to-collection">Encyclopædia Britannica’s Great Books of the Western World</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
-		<dc:abstract>A discussion of the distinction between an Acquisitive Society, one guided by profits, and a Functional Society, one guided by service.</dc:abstract>
+		<meta property="schema:abstract">A discussion of the distinction between an Acquisitive Society, one guided by profits, and a Functional Society, one guided by service.</meta>
 		<dc:description>
 			&lt;p&gt;“The faith upon which our economic civilization reposes, the faith that riches are not a means to an end but an end, implies that all economic activity is equally estimable whether it is subordinated to a social purpose or not.”&lt;/p&gt;
 			&lt;p&gt;So states &lt;a href="https://standardebooks.org/ebooks/r-h-tawney"&gt;R. H. Tawney&lt;/a&gt; in this treatise on the difference between an Acquisitive Society, one guided purely by profits, and a Functional Society, one guided by professional motives. In the former—which is largely the world we live in today—businesses are concerned only with making profit for their owners, who have little or no connection to the industry they own, and high-quality service and efficient use of labor is at best only a pleasant byproduct. Tawney contrasts this view of society with the latter society, in which businesses are run by professionals instead of owners. In this scenario, professional considerations not related to financial profit would lead to better service and higher efficiency, as well as happier workers.&lt;/p&gt;
