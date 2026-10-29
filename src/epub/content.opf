@@ -58,13 +58,14 @@
 		<link href="https://github.com/standardebooks/r-h-tawney_the-acquisitive-society" refines="#vcs-repository" rel="schema:codeRepository"/>
 		<dc:creator id="author">R. H. Tawney</dc:creator>
 		<meta property="file-as" refines="#author">Tawney, R. H.</meta>
-		<meta property="schema:alternateName" refines="#author">Tawney, Richard Henry</meta>
+		<meta property="schema:alternateName" refines="#author">Richard Henry Tawney</meta>
 		<link href="https://en.wikipedia.org/wiki/R._H._Tawney" refines="#author" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n50008661.html" refines="#author" rel="schema:sameAs"/>
 		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">Victor Dubreuil</dc:contributor>
 		<meta property="file-as" refines="#artist">Dubreuil, Victor</meta>
+		<link href="https://en.wikipedia.org/wiki/Victor_Dubreuil" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Al Haines</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Haines, Al</meta>
